@@ -348,7 +348,7 @@
         </orbit.version.tomcat.servlet.api>
         <orbit.version.tomcat.jsp.api>${version.tomcat}.wso2v1</orbit.version.tomcat.jsp.api>
         <orbit.version.tomcat.el.api>${version.tomcat}.wso2v1</orbit.version.tomcat.el.api>
-        <orbit.version.tomcat.ha>7.0.59.wso2v3</orbit.version.tomcat.ha>
+        <orbit.version.tomcat.ha>7.0.59.wso2v1</orbit.version.tomcat.ha>
         <orbit.version.tribes>7.0.34.wso2v1</orbit.version.tribes>
 
         <version.eclipse.ecj>4.4.2</version.eclipse.ecj>
