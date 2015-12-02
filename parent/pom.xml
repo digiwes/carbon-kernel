@@ -188,7 +188,7 @@
         <version.sat4j.pb>2.3.5.v201308161310</version.sat4j.pb>
         <version.org.sat4j.pb>2.3.0.v20110329</version.org.sat4j.pb>
 
-        <version.equinox.http.servlet>1.1.400.v20130418-1354</version.equinox.http.servlet>
+        <version.equinox.http.servlet>2.2.2</version.equinox.http.servlet>
         <version.equinox.http.helper>1.1.0.wso2v1</version.equinox.http.helper>
         <version.equinox.jsp.jasper>1.0.400.v20120522-2049</version.equinox.jsp.jasper>
         <version.equinox.javax.servlet>3.0.0.v201112011016</version.equinox.javax.servlet>
@@ -280,7 +280,7 @@
         <version.ant.contrib>1.0b3</version.ant.contrib>
 
         <!-- Apache xmlbeans -->
-        <version.xmlbeans>2.3.0.wso2v1</version.xmlbeans>
+        <version.xmlbeans>2.1.0</version.xmlbeans>
 
         <!-- Apache woden-->
         <version.woden>1.0.0.M9-wso2v1</version.woden>
@@ -328,7 +328,7 @@
         <orbit.version.commons.beanutils>1.8.0.wso2v1</orbit.version.commons.beanutils>
         <orbit.version.poi>3.9.0.wso2v1</orbit.version.poi>
         <orbit.version.poi.scratchpad>3.9.0.wso2v1</orbit.version.poi.scratchpad>
-        <orbit.version.poi.ooxml>3.9.0.wso2v3</orbit.version.poi.ooxml>
+        <orbit.version.poi.ooxml>3.9.0.wso2v1</orbit.version.poi.ooxml>
         <orbit.version.commons.lang>2.6.0.wso2v1</orbit.version.commons.lang>
         <orbit.version.commons.collection>3.2.0.wso2v1</orbit.version.commons.collection>
         <orbit.version.commons.io>2.4.0.wso2v1</orbit.version.commons.io>
@@ -373,7 +373,7 @@
         <version.wso2.derby>10.3.2.1wso2v1</version.wso2.derby>
 
         <!-- slf4j -->
-        <slf4j.version>1.5.10</slf4j.version>
+        <slf4j.version>1.7.12</slf4j.version>
         <!--<slf4j.wso2.version>1.5.10.wso2v1</slf4j.wso2.version>-->
 
         <!-- findbugs -->
@@ -417,14 +417,14 @@
         <version.tcpmon>1.0</version.tcpmon>
         <version.ibm.icu>4.0.1.v20090415</version.ibm.icu>
         <version.commons.modeler>2.0</version.commons.modeler>
-        <version.commons.cli>1.0</version.commons.cli>
+        <version.commons.cli>1.2</version.commons.cli>
         <version.wrapper>3.2.3</version.wrapper>
         <version.activation>1.1</version.activation>
         <version.jaxb>2.2.5.wso2v1</version.jaxb>
         <version.commons.modeler>2.0</version.commons.modeler>
         <version.aopalliance>1.0</version.aopalliance>
         <version.xml.resolver>1.2</version.xml.resolver>
-        <version.jsr311.api>1.0</version.jsr311.api>
+        <version.jsr311.api>1.1.1</version.jsr311.api>
         <version.javax.el>2.2.0.v201108011116</version.javax.el>
         <version.authenticator>0.7.0.wso2v1</version.authenticator>
         <javasysmon.version>0.3.3.wso2v1</javasysmon.version>
@@ -449,7 +449,7 @@
         <jdbc-pool.version>7.0.34.wso2v2</jdbc-pool.version>
 
         <!-- Test integration -->
-        <slf4j.version>1.5.10</slf4j.version>
+        <slf4j.version>1.7.12</slf4j.version>
         <woden.api.version>1.0M9</woden.api.version>
         <maven.clean.plugin.version>2.4.1</maven.clean.plugin.version>
         <version.com.google.code.gson>2.4</version.com.google.code.gson>
