@@ -188,7 +188,7 @@
         <version.sat4j.pb>2.3.5.v201308161310</version.sat4j.pb>
         <version.org.sat4j.pb>2.3.0.v20110329</version.org.sat4j.pb>
 
-        <version.equinox.http.servlet>2.2.2</version.equinox.http.servlet>
+        <version.equinox.http.servlet>1.1.400.v20130418-1354</version.equinox.http.servlet>
         <version.equinox.http.helper>1.1.0.wso2v1</version.equinox.http.helper>
         <version.equinox.jsp.jasper>1.0.400.v20120522-2049</version.equinox.jsp.jasper>
         <version.equinox.javax.servlet>3.0.0.v201112011016</version.equinox.javax.servlet>
@@ -280,7 +280,7 @@
         <version.ant.contrib>1.0b3</version.ant.contrib>
 
         <!-- Apache xmlbeans -->
-        <version.xmlbeans>2.1.0</version.xmlbeans>
+        <version.xmlbeans>2.3.0.wso2v1</version.xmlbeans>
 
         <!-- Apache woden-->
         <version.woden>1.0.0.M9-wso2v1</version.woden>
@@ -306,10 +306,10 @@
 
         <!-- Apache Axis2 -->
         <version.axis2>1.6.1-wso2v15</version.axis2>
-        <imp.pkg.version.axis2>[1.6.1.wso2v15, 1.7.0)</imp.pkg.version.axis2>
+        <imp.pkg.version.axis2>[1.6.1.wso2v11, 1.7.0)</imp.pkg.version.axis2>
         <version.addressing>1.6.1-wso2v15</version.addressing>
-        <orbit.version.axis2>1.6.1.wso2v15</orbit.version.axis2>
-        <axis2.client.osgi.version>1.6.1.wso2v15</axis2.client.osgi.version>
+        <orbit.version.axis2>1.6.1.wso2v11</orbit.version.axis2>
+        <axis2.client.osgi.version>1.6.1.wso2v11</axis2.client.osgi.version>
         <version.axis2.json>1.6.1-wso2v15</version.axis2.json>
 
         <!-- xmlsec version -->
@@ -417,11 +417,11 @@
         <version.tcpmon>1.0</version.tcpmon>
         <version.ibm.icu>4.0.1.v20090415</version.ibm.icu>
         <version.commons.modeler>2.0</version.commons.modeler>
-        <version.commons.cli>1.2</version.commons.cli>
+        <version.commons.cli>1.0</version.commons.cli>
         <version.wrapper>3.2.3</version.wrapper>
         <version.activation>1.1</version.activation>
         <version.jaxb>2.2.5.wso2v1</version.jaxb>
-        <version.commons.modeler>2.0</version.commons.modeler>
+        <!--<version.commons.modeler>2.0</version.commons.modeler>-->
         <version.aopalliance>1.0</version.aopalliance>
         <version.xml.resolver>1.2</version.xml.resolver>
         <version.jsr311.api>1.1.1</version.jsr311.api>
@@ -983,7 +983,7 @@
             <dependency>
                 <groupId>org.wso2.commons.wso2</groupId>
                 <artifactId>authenticator</artifactId>
-                <version>version.authenticator</version>
+                <version>${version.authenticator}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.geronimo.specs</groupId>
